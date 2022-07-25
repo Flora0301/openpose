@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+images/
+model/
+!/pos/
+!/pos_image/
+!/pos_mul/
+!/video/
+*.xml
